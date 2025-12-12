@@ -13,11 +13,17 @@
 
 ### 🚀 About Me
 
-I build digital experiences that are **bold**, **raw**, and **functional**. My design philosophy leans heavily into Neo-Brutalism—stripping away the unnecessary to reveal the core purpose.
+**Senior Technical Architect | Software Developer | DevOps Enthusiast**
+
+I bridge the gap between **Physical Architecture** and **Digital Infrastructure**. With over 10 years of experience running *M.Y.E.A.T.Z designstudio*, I apply the precision of architectural engineering to modern software development.
+
+- 🏗️ **Background**: Certified Senior Architectural Draughtsman & CIDB Personnel. Specialized in UBBL compliance & BIM workflows.
+- 💻 **Current Focus**: Leveraging **Azure DevOps**, **NVIDIA AI Workflows**, and **GPU-accelerated computing** to build the next generation of modular software tools.
+- 🎨 **Philosophy**: Neo-Brutalism. Stripping away the unnecessary to reveal the core purpose—whether in concrete or in code.
 
 - 🔭 I’m currently working on **[Brutalist Notes](https://github.com/me-yeatz/Brutalist-Note)**
 - 🌱 I’m currently learning **Advanced React Patterns & 3D Web Graphics**
-- 💬 Ask me about **UI/UX Design, PWA Development**
+- 💬 Ask me about **Architecture-to-Tech transitions, WIP Automation, and PWA Development**
 - 📫 How to reach me: **me.yeatz@outlook.com**
 - 🆔 ORCID: **[0009-0004-2211-2406](https://orcid.org/0009-0004-2211-2406)**
 
