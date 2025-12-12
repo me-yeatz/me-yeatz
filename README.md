@@ -19,6 +19,7 @@ I build digital experiences that are **bold**, **raw**, and **functional**. My d
 - 🌱 I’m currently learning **Advanced React Patterns & 3D Web Graphics**
 - 💬 Ask me about **UI/UX Design, PWA Development**
 - 📫 How to reach me: **me.yeatz@outlook.com**
+- 🆔 ORCID: **[0009-0004-2211-2406](https://orcid.org/0009-0004-2211-2406)**
 
 </div>
 
