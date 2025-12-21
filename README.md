@@ -24,6 +24,12 @@ Senior Technical Architect bridging **Physical Architecture** and **Digital Infr
 
 ---
 
+### Certifications
+
+[![Responsible AI with GitHub Copilot](https://img.shields.io/badge/Responsible%20AI%20with%20GitHub%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/)
+
+---
+
 ### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
